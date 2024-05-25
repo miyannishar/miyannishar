@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishar Miya</h1>
 <h3 align="center">A passionate full-stack developer and MLOPs Engineer from States</h3>
 
-- 🌱 I’m currently learning **Tensorflow and NextJS**
+- 🌱 I’m currently learning **LLMs and NextJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/miyannishar?tab=repositories](https://github.com/miyannishar?tab=repositories)
 
