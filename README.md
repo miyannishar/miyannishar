@@ -1,66 +1,77 @@
-# Nishar Miya
+<div align="center">
 
-**Founding AI Engineer at [opus](https://www.opus-tech.ai/en)** · Nashville, Tennessee
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=36&amp;duration=3000&amp;pause=1000&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=60&amp;lines=Hi%2C+I'm+Nishar+Miya" alt="Hi, I'm Nishar Miya" />
 
-I build AI systems that do useful work, from agents and document intelligence to the backend and infrastructure that bring them to production. Outside engineering, I’m usually behind a camera or making a video.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;duration=2800&amp;pause=2000&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=38&amp;lines=Founding+AI+Engineer+%40+opus;AI+Agents+%7C+Open+Source+%7C+Filmmaking" alt="Founding AI Engineer at opus · AI agents, open source, and filmmaking" />
 
-[Website](https://nisharmiya.com) · [LinkedIn](https://www.linkedin.com/in/nishar-miya/) · [Email](mailto:miyannishar786@gmail.com) · [Résumé](https://nisharmiya.com/images/Resume.pdf)
+**Building AI systems that do useful work.**
 
-## What I’m building
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nisharmiya.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishar-miya/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miyannishar786@gmail.com)
 
-At **opus** (September 2026–present), I’m building an AI-native procure-to-pay platform that automates enterprise procurement. My work spans document ingestion, extraction, structured reasoning, validation, and engineering from architecture to production.
+</div>
 
-Previously, I was a **Founding AI Engineer at [Dayos](https://www.dayos.com/)** (May 2024–September 2026). I built **Hero**, an agentic platform for journal entries, financial reporting, and month-end close across Oracle ERP, SAP, and Workday. I architected multi-agent and RAG workflows with Google ADK and LangChain, taking the product from a zero codebase to demos for Fortune 500 stakeholders.
+## 🚀 About me
 
-## Selected work
+```typescript
+const nishar = {
+  role: "Founding AI Engineer @ opus",
+  location: "Nashville, TN",
+  education: "B.S. Computer Science, Fisk — expected Dec 2026",
+  interests: ["AI agents", "Open source", "Making videos"],
+};
+```
 
-### [Arclab Sim ↗](https://sim.arclab.app/)
+At **[opus](https://www.opus-tech.ai/en)** (Sep 2026–present), I’m building agents and document intelligence for enterprise procurement. Previously at **[Dayos](https://www.dayos.com/)** (May 2024–Sep 2026), I built **Hero**, automating accounting workflows across Oracle ERP, SAP, and Workday.
 
-An AI-powered software engineering simulator with workflows modeled on VS Code, GitHub, Jira, and CI/CD. Built technical assessments for debugging, code reviews, and practical engineering skills; piloted with computer science students at Fisk University.
+## 💎 Selected work
 
-### [Microsoft Agent Governance Toolkit ↗](https://github.com/microsoft/agent-governance-toolkit)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://sim.arclab.app/">Arclab Sim ↗</a></h3>
+      <img src="https://img.shields.io/badge/Applied_AI-8B5CF6?style=flat-square" alt="Applied AI">
+      <p>AI-powered engineering simulations for debugging, code reviews, and interview preparation. Piloted with CS students at Fisk University.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/microsoft/agent-governance-toolkit">Agent Governance Toolkit ↗</a></h3>
+      <img src="https://img.shields.io/badge/Microsoft-Open_Source-0078D4?style=flat-square" alt="Microsoft open source">
+      <p>Maintainer and contributor. <strong>20+ merged PRs</strong>, governance hooks for <strong>8 LLM frameworks</strong>, security fixes, and OpenTelemetry auditing.</p>
+    </td>
+  </tr>
+</table>
 
-Maintainer and open-source contributor. Shipped **20+ merged pull requests**, including governance hooks for **8 LLM frameworks**, Cedar/OPA policy integration, and an OpenTelemetry audit backend. Patched a critical prompt injection allowlist bypass, with **29 regression tests across 7 attack scenarios**.
+Also built **[RepuLens](https://repulens.com)**, an AI review intelligence platform. Contributing to [adk-python-community](https://github.com/miyannishar/adk-python-community), [mem0](https://github.com/mem0ai/mem0), and [idun-agent-platform](https://github.com/miyannishar/idun-agent-platform).
 
-### [RepuLens ↗](https://repulens.com)
+## 🛠️ Tech stack
 
-Review intelligence for businesses: customer sentiment, competitor tracking, semantic search, and automated AI reports. Built with Next.js, FastAPI, and Supabase, including PostgreSQL row-level security and pgvector.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-I also contribute to [adk-python-community](https://github.com/miyannishar/adk-python-community), [mem0](https://github.com/mem0ai/mem0), and [idun-agent-platform](https://github.com/miyannishar/idun-agent-platform).
+## 🔬 Research & highlights
 
-[Explore my repositories →](https://github.com/miyannishar?tab=repositories)
+- **IEEE publications:** [SPHERE](https://ieeexplore.ieee.org/abstract/document/11105318) and [InDeKX](https://ieeexplore.ieee.org/abstract/document/10754756), on secure edge computing at Northern Kentucky University.
+- **Hackathon wins:** Fisk Future (2025), NatureHacks (2024), HackPrinceton category (2022).
+- HackHarvard honorable mention · ICPC regional 2nd place · AI workshop mentor.
 
-## Research
+## 📹 Beyond work
 
-As an undergraduate research assistant at **Northern Kentucky University** (May–August 2023), I worked on secure edge computing with EdgeX Foundry. My IEEE-published research includes:
+I make cinematic videos, travel films, hackathon vlogs, and short explanations of AI and tech.
 
-- **[SPHERE](https://ieeexplore.ieee.org/abstract/document/11105318)** — Provenance-aware edge computing using distributed ledgers and cryptography to improve integrity, auditability, and trust.
-- **[InDeKX](https://ieeexplore.ieee.org/abstract/document/10754756)** — Intrusion detection and knowledge exchange for protecting IoT services in a hierarchical edge architecture.
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nisharmiya3632)
+[![Cinematic reels](https://img.shields.io/badge/Cinematic_Reels-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miyan_nishar/)
+[![AI and tech](https://img.shields.io/badge/AI_%26_Tech-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nishar_knows_ai/)
 
-## Tools I work with
+## 📊 GitHub stats
 
-- **Languages:** Python, Java, JavaScript, C++
-- **AI & ML:** Google ADK, LangChain, LangGraph, CrewAI, n8n, TensorFlow, OpenCV
-- **Web & data:** Next.js, FastAPI, SQL, PostgreSQL, Supabase
-- **Infrastructure & observability:** AWS ECS Fargate, Docker, CI/CD, Datadog, Langfuse, OpenTelemetry
-
-## Education & community
-
-**B.S. in Computer Science, Fisk University** — expected December 2026.
-
-- **2025:** Fisk Future Hackathon winner with FiskConnect; mentor at the [WiserMania Agentic AI Workshop](https://www.instagram.com/p/DKwdg5KBoNU/).
-- **2024:** NatureHacks winner with ECo-nnect; [Jiffy Hackathon judge](https://www.instagram.com/p/DEAHS9tyoYG/) in Nepal.
-- **2023:** [HackHarvard honorable mention](https://devpost.com/software/fitlif) in Health & Sustainability; 2nd place in the ICPC Northern Kentucky Region; Machine Learning Specialization certification.
-- **2022:** [HackPrinceton category winner](https://devpost.com/software/kissan); President’s Honor List, International Merit Scholarship, and Edge PLUS Award.
-
-## Beyond work
-
-I love making videos: cinematic travel films, moments from everyday life, and things I’m learning about tech.
-
-- **[YouTube · @nisharmiya3632](https://www.youtube.com/@nisharmiya3632)** — Travel films, hackathon vlogs, and life along the way.
-- **[Instagram · @miyan_nishar](https://www.instagram.com/miyan_nishar/)** — Cinematic reels and everyday moments. An AI engineer with a camera.
-- **[Instagram · @nishar_knows_ai](https://www.instagram.com/nishar_knows_ai/)** — Short videos about AI, machine learning, and tech, explained simply.
-
----
-
-Have an interesting problem, an open-source idea, or a story to share? [Let’s talk.](mailto:miyannishar786@gmail.com)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=miyannishar&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Nishar's GitHub stats" width="49%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyannishar&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6" alt="Most used languages" width="49%">
+</div>
